@@ -1,0 +1,6 @@
+# to group people into group
+pythonstudent1 = "alice"
+pythonstudent2 = "bob"
+    #the easist way is :
+python_student = ["alice","bob"]
+print(pythonstudent1.upper())
